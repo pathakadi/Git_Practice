@@ -1,0 +1,13 @@
+# The files or folders written here will be ignored.
+
+# Files having name cache.log
+cache.log
+
+# Files having name cache.log in same directory as .gitignore.
+/cache.log
+
+# All files having extension .log .
+*.log
+
+# Files inside morelog directory.
+morelog/
